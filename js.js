@@ -1,18 +1,6 @@
 let price=20
 let fruit="mango"
 
-if(price=20){
-    let fruit="orange"
-    console.log(fruit)
-}
-console.log(fruit)
-
-//------------constant--------------------วิธีเปลี่ยนค่าคงที่คือประกาศเป็น object
-const total={name:"banana",price:"50"}
-total.name="melon"
-console.log(total)
-
-//--------------------------------arrow function
 
 function addition(a,b){
     return a+b
