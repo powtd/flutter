@@ -51,15 +51,4 @@ let newcolors=[...colo,'pink','yellow']
 console.log(newcolors)
 
 
-//----------------Template Literals ต่อสตริง
-const name='Hair'
-const last='cut'
-const age='20'
-
-const all=`Name ${name}${last} Age ${age}`
-//-----แบบขึ้นบรรทัดใหม่
-const allNewLine=`${name}${last}
-${age}`
-console.log(all)
-console.log(allNewLine)
 
