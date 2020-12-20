@@ -63,8 +63,3 @@ ${age}`
 console.log(all)
 console.log(allNewLine)
 
-//-------------------------Destructuring Object ค่าในobject->ตัวแปร
-
-let person={name:'haricut',last:'dude'}
-let {name,last} = person
-console.log(name+last)
