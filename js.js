@@ -21,17 +21,7 @@ const user=(name,last,city="bankok")=>{
 console.log(user("pppp ","yyyyy ","newyork"))
 console.log(user("haircut ","yyyyy "))
 
-//--------------------------------------- rest parameter รับได้หลายค่า
-const city=(c,... d)=>{
-    return c+d
-}
 
-const addNunber=(... number)=>{
-    return number.reduce((first,current)=>{
-        return first+current
-    })
-}
-console.log(addNunber(1,2,3,4,5))
 
 // ------------------------------------------spread operator กระจาย a->b
 let colors=['red','black']
