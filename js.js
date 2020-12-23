@@ -23,10 +23,5 @@ console.log(user("haircut ","yyyyy "))
 
 
 
-// ------------------------------------------spread operator กระจาย a->b
-let colors=['red','black']
-let newcolors=[...colo,'pink','yellow']
-console.log(newcolors)
-
 
 
