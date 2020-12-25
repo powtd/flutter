@@ -12,7 +12,7 @@ const add=(a,b)=>a+b
 //--------------------------------------------function สร้าง object
 const person=(name,age)=>({name:name,age:age})
 
-console.log(person("ooooooo",15))
+
 
 
 
