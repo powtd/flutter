@@ -14,13 +14,6 @@ const person=(name,age)=>({name:name,age:age})
 
 console.log(person("ooooooo",15))
 
-//--------------------------------default parameter กำหนดค่าเริ่มต้นให้
-const user=(name,last,city="bankok")=>{
-    return name+last+city
-}
-console.log(user("pppp ","yyyyy ","newyork"))
-console.log(user("haircut ","yyyyy "))
-
 
 
 
