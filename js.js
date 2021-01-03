@@ -24,7 +24,7 @@ let PI = 3.1415;
 let myFirstJob = "Coder";
 let myCurrentJob = "Teacher";
 
-let job1 = "programmer";
+
 
 
 
