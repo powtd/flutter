@@ -21,8 +21,7 @@ let $function = 27;
 let person = "jonas";
 let PI = 3.1415;
 
-let myFirstJob = "Coder";
-let myCurrentJob = "Teacher";
+
 
 
 
